@@ -1,5 +1,5 @@
 # GroupFiles
-All mission files goes to here. Check code in MediaPlayer repository
+All mission files goes to here. Check code in AutoUpdate repository
 
 ## Noted
 每次的ppt和秘书报告都放进相应的任务文件夹中。
